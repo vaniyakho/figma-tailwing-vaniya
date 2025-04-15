@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper {
+  width: 100%;
+}
+body {
+  background-color: #f3f3f3;
+}
+@font-face {
+  font-family: Estedad;
+  src: url(../font/Estedad-Regular.ttf);
+}
+.z {
+  z-index: 2;
+}
+.m {
+  margin-top: 24px;
+}
+.m-l {
+  margin-left: 320px;
+}
+.m-r {
+  margin-right: 200px;
+}

@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@font-face {
+  font-family: Estedad;
+  src: url(../font/Estedad-Regular.ttf);
+}
+body {
+  background-color: #f3f3f3;
+}
+.wrapper {
+  width: 100%;
+}
+.z {
+  z-index: 2;
+}
+.m {
+  margin-top: 24px;
+}
+.m-l {
+  margin-left: 320px;
+}
+.m-r {
+  margin-right: 200px;
+}
